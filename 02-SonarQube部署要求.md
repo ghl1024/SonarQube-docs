@@ -39,7 +39,7 @@
 - Opera 未测试
 - Safari Latest
 
-##Linux操作系统注意
+## Linux操作系统注意
 ### 不能以root用户直接运行sonarqube。
 ### 设置内核参数
 ```
