@@ -1,4 +1,4 @@
-#SonarQube部署要求
+# SonarQube部署要求
 
 
 ## 先决条件
